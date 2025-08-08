@@ -1,6 +1,6 @@
 # Joyfill Demo
 
-This is a demo project for the Joyfill API. It demonstrates how to use the Joyfill API to generate invoices and patient forms.  
+This is a demo project for the Joyfill API. It demonstrates how to use the Joyfill API to generate invoices and patient forms.
 
 ## Prerequisites
 
@@ -24,10 +24,10 @@ npm install
 
 3. Create a `.env` file in the root directory and add your Joyfill API key and user token:
 
-```bash
+````bash
 # .env
-VITE_JOYFILL_API_KEY=sk_Xy9LmT78QpRtYvN4eWzCgHuKTr3a
-VITE_JOYFILL_API_KEY_SECRET=sk_Jd8PwL20KvMzNx91RqBcVfLsEiZa
+VITE_JOYFILL_API_KEY=sk_Xy9L****r3a
+VITE_JOYFILL_API_KEY_SECRET=sk_Jd8P****EiZa
 
 
 4.
@@ -39,7 +39,7 @@ VITE_JOYFILL_API_KEY_SECRET=sk_Jd8PwL20KvMzNx91RqBcVfLsEiZa
 
 ```bash
 npm run dev
-```
+````
 
 ## Usage
 
